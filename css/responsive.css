@@ -1,0 +1,79 @@
+@media (max-width: 375px) {
+    main {
+        width: 311px;
+        height: 161px;
+        margin-top: 85px;
+    }
+
+    .h2-1 {
+        width: 300px;
+        height: 36px;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: 0.17px;
+    }
+
+    h1 {
+        width: 300px;
+        height: 36px;
+        font-size: 24px;
+        line-height: 36px;
+        letter-spacing: 0.17px;
+    }
+
+    .p1 {
+        width: 311px;
+        height: 75px;
+        font-size: 15px;
+        line-height: 25px;
+        letter-spacing: 0.1px;
+        padding-top: 16px;
+    }
+
+    section {
+        display: block;
+        width: 311px;
+        height: 960px;
+        margin-top: 76px;
+    }
+
+    .div1,
+    .div3,
+    .div4,
+    .div5 {
+        width: 311px;
+        height: 222px;
+    }
+
+    .div1,
+    .div5 {
+        margin-top: 0px;
+    }
+
+    .h2-2,
+    .h2-3 {
+        padding-top: 27px;
+        padding-left: 28px;
+    }
+
+    .p2 {
+        width: 254px;
+        height: 46px;
+        padding-top: 1px;
+        padding-left: 29px;
+    }
+
+    .icon {
+        padding-top: 33px;
+        padding-left: 226px;
+    }
+
+    .div2 {
+        margin-top: 25px;
+    }
+
+    .div4 {
+        margin-top: 23px;
+        margin-bottom: 24px;
+    }
+}
